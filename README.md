@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tsivos Iason</h1>
 <h3 align="center">A Tech Enthusiast from Greece</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
